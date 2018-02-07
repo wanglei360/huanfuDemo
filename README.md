@@ -6,4 +6,4 @@
     library用到了v4
     在library中，如果缺少功能可以在entity.AttrFactory中添加支持，然后像entity.SrcAttr一样去实现就好
 
-    感谢：Android-Skin-Loader
+    感谢：[Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)
