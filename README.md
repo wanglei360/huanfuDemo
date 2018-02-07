@@ -6,4 +6,5 @@
     library用到了v4
     在library中，如果缺少功能可以在entity.AttrFactory中添加支持，然后像entity.SrcAttr一样去实现就好
 介绍换肤的一个博客：[Android主题换肤 无缝切换](https://www.jianshu.com/p/af7c0585dd5b)
+
 感谢：[Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)
