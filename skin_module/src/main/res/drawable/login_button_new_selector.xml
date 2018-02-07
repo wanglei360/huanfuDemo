@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_selected="true">
+        <shape>
+            <solid android:color="@color/colorAccent1" />
+            <corners
+                android:bottomLeftRadius="154dp"
+                android:bottomRightRadius="154dp"
+                android:topLeftRadius="154dp"
+                android:topRightRadius="154dp" />
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/colorAccent1" />
+            <corners
+                android:bottomLeftRadius="154dp"
+                android:bottomRightRadius="154dp"
+                android:topLeftRadius="154dp"
+                android:topRightRadius="154dp" />
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <shape>
+            <solid android:color="@color/colorAccent1" />
+            <corners
+                android:bottomLeftRadius="154dp"
+                android:bottomRightRadius="154dp"
+                android:topLeftRadius="154dp"
+                android:topRightRadius="154dp" />
+        </shape>
+    </item>
+    <item >
+        <shape>
+            <solid android:color="@color/login_text" />
+            <corners
+                android:bottomLeftRadius="154dp"
+                android:bottomRightRadius="154dp"
+                android:topLeftRadius="154dp"
+                android:topRightRadius="154dp" />
+        </shape>
+    </item>
+
+
+</selector>
