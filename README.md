@@ -1,4 +1,5 @@
 
+    添加了3.0之后多渠道打包的方式，比在3.0之前稍微的多了一点配置
     baseActivity 中需要添加一些配置
     要换肤的控件，必须加        skin:enable="true"
     Application需要初始化
